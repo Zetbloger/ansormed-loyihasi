@@ -25,7 +25,6 @@ body{
     margin-right: auto;
     padding-left: 30px;
     padding-right: 30px;
-
   }
   /* SITE-HEADER */
   .site-header{
@@ -142,6 +141,9 @@ body{
   color: #fff;
   line-height: 1.2;
   font-family: "Open Sans Condensed","Arial", sans-serif;
+}
+.hero-img{
+  align-self: flex-end;
 }
 
 .main-link-solid:hover{
